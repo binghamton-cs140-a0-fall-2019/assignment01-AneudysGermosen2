@@ -1,0 +1,120 @@
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+steven moore
+123943445
+Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+59 lenox ave
+Atlantic City, NJ 12342
+Jah seh
+163612635
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+25 boston road
+porkbelly, NY 12467
+jefrey epstein
+376738945
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+ 43 hunts point
+bikini bottom, CA 12112
+frank ocean
+922262367
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+34 simpson place
+Binghamton, NY 90210
+
+TESTS FOR Computer.java:
+steven moore
+123943445
+Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+59 lenox ave
+Atlantic City, NJ 12342
+Jah seh
+163612635
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+25 boston road
+porkbelly, NY 12467
+jefrey epstein
+376738945
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+ 43 hunts point
+bikini bottom, CA 12112
+frank ocean
+922262367
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+34 simpson place
+Binghamton, NY 90210
+
+TESTS FOR Computer.java:
+steven moore
+123943445
+Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+59 lenox ave
+Atlantic City, NJ 12342
+Jah seh
+163612635
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+25 boston road
+porkbelly, NY 12467
+jefrey epstein
+376738945
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+ 43 hunts point
+bikini bottom, CA 12112
+frank ocean
+922262367
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+34 simpson place
+Binghamton, NY 90210
+
+TESTS FOR Computer.java:
+steven moore
+123943445
+Date and place of birth: 1985-06-07, Atlantic City, New Jersey, United States
+59 lenox ave
+Atlantic City, NJ 12342
+Jah seh
+163612635
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+25 boston road
+porkbelly, NY 12467
+jefrey epstein
+376738945
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+ 43 hunts point
+bikini bottom, CA 12112
+frank ocean
+922262367
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+34 simpson place
+Binghamton, NY 90210
+
+TESTS FOR Computer.java:
+steven moore
+123943445
+Date and place of birth: 1985-06-07, Bronx, New york, United States
+59 lenox ave
+Atlantic City, NJ 12342
+Jah seh
+163612635
+Date and place of birth: 1988-09-09, Bellport, New York, United States
+25 boston road
+porkbelly, NY 12467
+jefrey epstein
+376738945
+Date and place of birth: 1982-04-05, Brooklyn, New York, United States
+ 43 hunts point
+bikini bottom, CA 12112
+frank ocean
+922262367
+Date and place of birth: 1982-04-05, Patchogue, New York, United States
+34 simpson place
+Binghamton, NY 90210

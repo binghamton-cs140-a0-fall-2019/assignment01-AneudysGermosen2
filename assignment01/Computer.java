@@ -2,7 +2,7 @@ package assignment01;
 /**
  * Class to store information about a personal computer with the
  * basic information stored in an advertisement for a computer.
- * 
+ *
  * @author CS 140
  *
  */
@@ -15,7 +15,7 @@ public class Computer {
 	private double purchasePrice;
 
 	/**
-	 * Initialization constructor used to give initial values to all the fields 
+	 * Initialization constructor used to give initial values to all the fields
 	 * @param aBrand the brand name of this computer
 	 * @param cpuDesc brief description of the cpu of this computer
 	 * @param ram amount of ram in GB in this computer
@@ -46,39 +46,39 @@ public class Computer {
 		return cpuDescription;
 	}
 	/**
-	 * Getter method for the ram in this computer 
+	 * Getter method for the ram in this computer
 	 * @return the ram in this computer in GB
 	 */
 	public int getRamGB() {
 		return ramGB;
 	}
 	/**
-	 * Getter method for the disk capacity in this computer 
+	 * Getter method for the disk capacity in this computer
 	 * @return the disk capacity in this computer in GB
 	 */
 	public int getDiskGB() {
 		return diskGB;
 	}
 	/**
-	 * Getter method for the purchase price of this computer 
+	 * Getter method for the purchase price of this computer
 	 * @return the purchase price of this computer
 	 */
 	public double getPurchasePrice() {
 		return purchasePrice;
 	}
 	/**
-	 * Returns true if the hard drive of this computer is solid state 
+	 * Returns true if the hard drive of this computer is solid state
 	 * @return true if the hard drive is solid state
 	 */
 	public boolean isSSD() {
 		return SSD;
 	}
-	
+
 	/**
 	 * The toString method is overridden to provide a summary of this computer. If the hard drive
 	 * is larger than one terabyte, the String contains the disk size in terabytes. The purchase price
-	 * is formatted as the expected dollars-and-cents. The description changes when the disk is 
-	 * solid state or a normal hard drive. 
+	 * is formatted as the expected dollars-and-cents. The description changes when the disk is
+	 * solid state or a normal hard drive.
 	 */
 	@Override
 	public String toString() {
@@ -92,6 +92,6 @@ public class Computer {
 			diskStr += "Hard Drive, ";
 		}
 		return String.format(brand + ", " + cpuDescription + ", " + ramGB + "GB Memory, "
-					+ diskStr + "Price: $%.2f ", purchasePrice); 
+					+ diskStr + "Price: $%.2f ", purchasePrice);
 	}
 }
